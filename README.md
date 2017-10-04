@@ -4,3 +4,11 @@ This is a repo for testing, playing, cheering and whining.
 
 Fork it, play with it and improve it!
 
+## My favorite sports
+
+* Frisbee 
+* Soccer 
+* Baseball
+
+![funny cat](funny_cat.jpg)
+
